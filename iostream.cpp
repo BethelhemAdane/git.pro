@@ -2,8 +2,8 @@
 #include<math.h>
 using namespace std;
 int main(){
-	int x=2,y=3;
-
-		cout<<x<<"the power of "<<y<<"is"<<pow(x,y)<<endl;
+	cout<<"square root of 0="<<sqrt(0)<<endl;
+	cout<<"square root of 9="<<sqrt(9)<<endl;
+	cout<<"square root of -19="<<sqrt(-19)<<endl;
 	return 0;
 }
