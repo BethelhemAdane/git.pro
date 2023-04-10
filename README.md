@@ -1,2 +1,2 @@
 # git.pro 
-This is the first c++ program in GitHub
+This is my first c++ program in GitHub
